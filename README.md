@@ -6,6 +6,5 @@ Here you can see my notes on differnt topics and hope you can be benifited from 
 - [TIC TAC TOE game in C++](https://github.com/codermehraj/TIC-TAC-TOE-GAME-CPP)
 - [Hand Cricket Game in C++](https://github.com/codermehraj/HAND-CRICK-2-cpp)
 - [Some STL codes in C++](https://github.com/codermehraj/STL-in-CPP)
-You can reach me at `codermehraj@gmail.com`
+You can reach me at `shawon.majid@gmail.com`
 > Happy Coding 😃
-Welcome to MehrajNotes
