@@ -5,7 +5,7 @@
 ***
 ## [About](https://shawon-majid.github.io/about)
 
-## [Problem Solving & Discussion](https://github.com/shawon-majid/shawon-majid.github.io/blob/master/Problem%20Solving%20Discussion.md)
+## [Problem Solving & Discussion](https://shawon-majid.github.io/ProblemSolvingDiscussion.md)
 
 ## [Define Coder: The Weapon of a programmer](https://definecoder.github.io/)
 
