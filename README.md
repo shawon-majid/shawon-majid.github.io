@@ -11,5 +11,4 @@
 
 ***
 
-`This page is mainted by Shawon Majid`
 
