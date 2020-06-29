@@ -3,7 +3,7 @@
 ![My Photo](IMG_3988.jpg)<br/>
 
 ***
-## [About](https://github.com/shawon-majid/shawon-majid.github.io/blob/master/about.md)
+## [About](https://shawon-majid.github.io/about)
 
 ## [Problem Solving & Discussion](https://github.com/shawon-majid/Problem-Solving-Discussion)
 
