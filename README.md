@@ -1,6 +1,6 @@
 # Welcome to Shawon Majid's Hub!
 
-![My Photo](https://github.com/shawon-majid/shawon-majid.github.io/blob/master/IMG_3988.jpg)<br/>
+![My Photo](https://github.com/shawon-majid/shawon-majid.github.io/issues/1)<br/>
 
 ***
 ## [About](https://github.com/shawon-majid/shawon-majid.github.io/blob/master/about.md)
