@@ -1,8 +1,14 @@
-# Welcome to Shawon's Hub!
-Here you can see my notes on differnt topics and hope you can be benifited from that.
-## [Click Here to go to My Note book](https://codermehraj.github.io/MehrajNotes/)
-## Here are some repositories from me :
-- [Hand Cricket Game in C++](https://github.com/codermehraj/HAND-CRICK-2-cpp) actually this is from the great coder Mehraj xD
-- [Some STL codes in C++](https://github.com/codermehraj/STL-in-CPP)
-You can reach me at `shawon.majid@gmail.com`
-> Happy Coding 😃
+# Welcome to Shawon Majid's Hub!
+
+![My Photo](https://github.com/shawon-majid/shawon-majid.github.io/blob/master/IMG_3988.jpg)<br/>
+
+***
+## [About](https://github.com/shawon-majid/shawon-majid.github.io/blob/master/about.md)
+
+## [Problem Solving & Discussion](https://github.com/shawon-majid/Problem-Solving-Discussion)
+
+## [Define Coder: The Weapon of a programmer](https://definecoder.github.io/)
+
+***
+
+`This page is mainted by Shawon Majid`
